@@ -385,7 +385,7 @@ Width: 853
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 10 40 N -0.999939 0 0 1 852.948 0 2
+Refer: 10 40 N -0.999939 0 0 1 851.948 0 2
 EndChar
 
 StartChar: asterisk
@@ -3234,7 +3234,7 @@ Width: 1200
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 87 171 N -0.999939 0 0 1 1199.93 0 2
+Refer: 87 171 N -0.999939 0 0 1 1198.93 0 2
 EndChar
 
 StartChar: questiondown
@@ -3243,7 +3243,7 @@ Width: 1025
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 23 63 N -0.999939 0 0 -0.999939 1024.94 991.939 2
+Refer: 23 63 N -0.999939 0 0 -0.999939 1023.94 991.939 2
 EndChar
 
 StartChar: Agrave
@@ -4829,7 +4829,7 @@ Width: 853
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 180 123 N -0.999939 0 0 1 852.948 0 2
+Refer: 180 123 N -0.999939 0 0 1 851.948 0 2
 EndChar
 
 StartChar: hungarumlaut
@@ -6120,7 +6120,7 @@ Width: 1198
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 221 8804 N -0.999939 0 0 1 1197.93 0 2
+Refer: 221 8804 N -0.999939 0 0 1 1196.93 0 2
 EndChar
 
 StartChar: trademark
